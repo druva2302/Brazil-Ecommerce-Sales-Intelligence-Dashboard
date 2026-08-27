@@ -1,4 +1,4 @@
-# 🇧🇷 Brazil E-Commerce Sales Intelligence Dashboard
+#  Brazil E-Commerce Sales Intelligence Dashboard
 
 ## 📊 Project Overview
 
