@@ -131,7 +131,15 @@ Provides an overall summary of the dashboard, business analysis, and key finding
 - Customer payment behavior
 - Payment method analysis
 - Payment-related purchasing patterns
+---
 
+## 📥 Power BI Dashboard File
+
+The complete Power BI `.pbix` file is available for download below:
+
+👉 [Download the Power BI Dashboard](https://drive.google.com/file/d/1i-lXIGj_KBv4ty3wGg03PlSwiyOQHh6F/view?usp=drive_link)
+
+> Note: The `.pbix` file is hosted on Google Drive because the file size exceeds GitHub's standard browser upload limit.
 ---
 
 ## 📈 Dashboard Preview
